@@ -8,9 +8,9 @@
       "releases":[
          {
             "date":"2024-02-25",
-            "sha512sum":"e1d120791c2f94db1d6cca053bbad263257625cbab31724bced93f85f4420a81202b773a018159e4a2f0c453f3cd19f8821151333528e94276c6ec0abb458229",
+            "sha512sum":"117ff3ff38749f540b7d79e69a491e1a3a7d0e4887fd66127636b05eb646dd67ef459c35d090ef424469424cad98ead703a358a8458e628369d37eef536f31a0",
             "version":"0.0.1",
-            "url":"https://github.com/xsfd1/coxfix2/blob/main/release/coxrestarterv2-0.0.1.jar?raw=true",
+            "url":"https://github.com/xsfd1/coxfix2/blob/main/release/coxrestarterv3-0.0.1.jar?raw=true",
             "requires":"0.0.1"
          }
       ]
