@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "name": "coxfix",
+      "version": "1.0.0",
+      "description": "fixes COX",
+      "author": "steve",
+      "downloadUrl": "https://github.com/deinusername/runelite-plugin-repo/releases/download/v1.0.0/MeinPlugin.jar"
+    }
+  ]
+}
