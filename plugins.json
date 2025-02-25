@@ -1,4 +1,4 @@
-
+[
 {
       "projectUrl":"https://github.com/xsfd1/coxfix/",
       "provider":"steve",
@@ -8,10 +8,11 @@
       "releases":[
          {
             "date":"2024-02-25",
-            "sha512sum":"c0fa8e2812afff2ef1abb9aaf1b007ebb4a65ace606bef5ebf8ec1042a7b7103b8274c28f7124f43468c44775b33fe5f7a69dc4d03088bd63d357acb1357627f",
+            "sha512sum":"d39a29b3ec335c8daae75aac963cbd1df5024d1c14b4c7c6ff40d6ac90a0af30885ab156bc1d4753b5967e91e6c5ea7e1c0db4e6deef7f8f9556938630c46991",
             "version":"0.0.1",
-            "url":"https://github.com/xsfd1/coxfix/releases/download/v1.0.0/cache-1.11.2-SNAPSHOT-jar-with-dependencies.jar?raw=true",
+            "url":"https://github.com/xsfd1/coxfix2/blob/main/release/coxrestarter-0.0.1.jar?raw=true",
             "requires":"0.0.1"
          }
       ]
   }
+]
