@@ -1,21 +1,17 @@
 
 {
       "projectUrl":"https://github.com/xsfd1/coxfix/",
-
       "provider":"steve",
-
       "name":"cox restarter",
-
       "description":"A plugin that restarts cox",
-
       "id":"coxrestarter",
-
-      "releases":
-
+      "releases":[
          {
+            "date":"2024-02-25",
             "sha512sum":"c0fa8e2812afff2ef1abb9aaf1b007ebb4a65ace606bef5ebf8ec1042a7b7103b8274c28f7124f43468c44775b33fe5f7a69dc4d03088bd63d357acb1357627f",
-            "version":"1.0.0",
+            "version":"0.0.1",
             "url":"https://github.com/xsfd1/coxfix/releases/download/v1.0.0/cache-1.11.2-SNAPSHOT-jar-with-dependencies.jar?raw=true",
-            "requires":"0.0.0"
+            "requires":"0.0.1"
          }
+      ]
   }
