@@ -2,15 +2,15 @@
 {
       "projectUrl":"https://github.com/xsfd1/coxfix/",
       "provider":"steve",
-      "name":"cox restarter",
+      "name":"cox restarter example",
       "description":"A plugin that restarts cox",
       "id":"coxrestarter",
       "releases":[
          {
             "date":"2024-02-25",
-            "sha512sum":"117ff3ff38749f540b7d79e69a491e1a3a7d0e4887fd66127636b05eb646dd67ef459c35d090ef424469424cad98ead703a358a8458e628369d37eef536f31a0",
+            "sha512sum":"e45290eeb18769ff7a7586012b88f6d2dc5cf37dda980724b1904d7a4a39654463208418e9ff0c733bea860fa12178f6bdad7be3a6104c6234e2fc44449ccb6d",
             "version":"0.0.1",
-            "url":"https://github.com/xsfd1/coxfix2/blob/main/release/coxrestarterv3-0.0.1.jar?raw=true",
+            "url":"https://github.com/xsfd1/coxfix3/blob/main/release/example-1.0.0.jar?raw=true",
             "requires":"0.0.1"
          }
       ]
